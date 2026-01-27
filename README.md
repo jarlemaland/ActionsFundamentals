@@ -70,3 +70,5 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## Trigger test
 
+## Skip CI test
+
